@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: BSc in Computer Science
-- :books: persuing
+- :books: persuing a Cybersecurity Master at Politecnico di Torino
 
 ## About me:
 
