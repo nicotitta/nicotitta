@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:mortar_board: BSc in Computer Science
+- :mortar_board: BSc in Computer Science
+- :books: persuing
+
+## About me:
+
+
+## Contacts:
