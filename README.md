@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: BSc in Computer Science
-- :books: Persuing a Cybersecurity Master at Politecnico di Torino
+- :books: Persuing a Cybersecurity Master at **Politecnico di Torino**
 
 ## About me:
-
+My interest in the cybersecurity field started to grow when I participed in the national **CyberChallenge.IT** competition and from then I have always been studying and practising with the goal of learning new skills and technologies. This deep interest drove me in the choice and writing of the bachelor's thesis: **Sandboxing tools and machine learning-based models aimed at detection and classification of Windows malware**.
 
 ## Contacts:
